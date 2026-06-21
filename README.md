@@ -1,2 +1,2 @@
-# C-
+# C++
 Activities in C++
